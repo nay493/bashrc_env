@@ -23,3 +23,5 @@ Record audio
 Or, add a music track as well:
 
 cat *.jpg | ffmpeg -framerate 0.25 -f image2pipe -i SONG.mp3 -acodec copy -output.mkv 
+
+https://www.youtube.com/watch?v=j1I63wGcvU4
