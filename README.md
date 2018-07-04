@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=j1I63wGcvU4
 
 alias cores="grep -c ^processor /proc/cpuinfo"
 
+command line - Whatsapp:
+http://zillionthoughts.com/whatsapp-command-line-tool-linux-developer-version/
