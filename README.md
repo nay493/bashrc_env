@@ -43,3 +43,5 @@ https://www.ostechnix.com/automatically-wake-linux-system-sleep-hibernation-mode
 https://www.maketecheasier.com/google-search-from-command-line-linux/
 
 https://www.if-not-true-then-false.com/2009/google-search-from-linux-and-unix-command-line/
+
+http://kurtdowswell.com/software-development/git-bash-aliases/
