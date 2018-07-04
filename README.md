@@ -30,3 +30,5 @@ alias cores="grep -c ^processor /proc/cpuinfo"
 
 command line - Whatsapp:
 http://zillionthoughts.com/whatsapp-command-line-tool-linux-developer-version/
+
+https://www.unixmen.com/list-10-funny-linux-commands/
