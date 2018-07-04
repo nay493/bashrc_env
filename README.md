@@ -32,3 +32,5 @@ command line - Whatsapp:
 http://zillionthoughts.com/whatsapp-command-line-tool-linux-developer-version/
 
 https://www.unixmen.com/list-10-funny-linux-commands/
+
+https://fossbytes.com/a-z-list-linux-command-line-reference/
