@@ -41,3 +41,5 @@ https://www.howtogeek.com/108890/how-to-get-help-with-a-command-from-the-linux-t
 https://www.ostechnix.com/automatically-wake-linux-system-sleep-hibernation-mode/
 
 https://www.maketecheasier.com/google-search-from-command-line-linux/
+
+https://www.if-not-true-then-false.com/2009/google-search-from-linux-and-unix-command-line/
